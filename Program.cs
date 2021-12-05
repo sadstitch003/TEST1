@@ -25,6 +25,7 @@ namespace TEST1
             Console.WriteLine(baksoApel);
             Console.WriteLine(bakso);
             baksoApel = 2;
+            baksoApel = 2;
         }
     }
 }
