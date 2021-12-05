@@ -14,6 +14,9 @@ namespace TEST1
             Console.WriteLine("Hai nama kamu siapa");
             Console.WriteLine("Hai nama kamu siapa ?");
             Console.WriteLine("Perkenalkan nama kamui");
+            Console.WriteLine("Perkenalkani");
+            Console.WriteLine("Perkenalkani");
+            int apel = 0;
         }
     }
 }
