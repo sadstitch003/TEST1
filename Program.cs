@@ -17,6 +17,10 @@ namespace TEST1
             Console.WriteLine("Perkenalkani");
             Console.WriteLine("Perkenalkani");
             int apel = 0;
+            int bakso = 0;
+            int baksoApel = 2;
+            apel = bakso + baksoApel;
+            Console.WriteLine(apel);
         }
     }
 }
