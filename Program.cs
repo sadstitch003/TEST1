@@ -34,6 +34,7 @@ namespace TEST1
             Console.WriteLine("Perkenalkani");
             Console.WriteLine("Perkenalkani");
             Console.WriteLine("Perkenalkani");
+            Console.WriteLine("Perkenalkani");
         }
     }
 }
