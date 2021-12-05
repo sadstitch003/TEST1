@@ -27,6 +27,7 @@ namespace TEST1
             baksoApel = 2;
             baksoApel = 2;
             baksoApel = 2;
+            baksoApel = 2;
         }
     }
 }
