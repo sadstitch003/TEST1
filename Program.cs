@@ -30,6 +30,10 @@ namespace TEST1
             baksoApel = 2;
             Console.WriteLine("Perkenalkani");
             Console.WriteLine("Perkenalkani");
+            Console.WriteLine("Perkenalkani");
+            Console.WriteLine("Perkenalkani");
+            Console.WriteLine("Perkenalkani");
+            Console.WriteLine("Perkenalkani");
         }
     }
 }
