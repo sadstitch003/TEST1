@@ -12,6 +12,8 @@ namespace TEST1
             Console.WriteLine("Membuat lagu baru");
             Console.WriteLine("Membuat lagu baru");
             Console.WriteLine("Hai nama kamu siapa");
+            Console.WriteLine("Hai nama kamu siapa ?");
+            Console.WriteLine("Perkenalkan nama kamui");
         }
     }
 }
